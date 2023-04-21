@@ -1,0 +1,502 @@
+	
+"""
+AMD Ryzen 5 3600	
+AMD Ryzen 5 3600
+
+6	3.6 GHz	4.2 GHz	65 W	None	Yes	 (1129)	$123.50
+	
+AMD Ryzen 9 3950X	
+AMD Ryzen 9 3950X
+
+16	3.5 GHz	4.7 GHz	105 W	None	Yes	 (60)	$575.00
+	
+AMD Ryzen 9 5900X	
+AMD Ryzen 9 5900X
+
+12	3.7 GHz	4.8 GHz	105 W	None	Yes	 (204)	$328.22
+	
+AMD Ryzen 7 3700X	
+AMD Ryzen 7 3700X
+
+8	3.6 GHz	4.4 GHz	65 W	None	Yes	 (625)	$285.00
+	
+Intel Core i7-4790K	
+Intel Core i7-4790K
+
+4	4 GHz	4.4 GHz	88 W	Intel HD Graphics 4600	Yes	 (565)	
+	
+AMD Ryzen 5 5600X	
+AMD Ryzen 5 5600X
+
+6	3.7 GHz	4.6 GHz	65 W	None	Yes	 (558)	$152.49
+	
+AMD Ryzen 5 5600	
+AMD Ryzen 5 5600
+
+6	3.5 GHz	4.4 GHz	65 W	None	Yes	 (81)	$140.97
+	
+Intel Core i7-3770K	
+Intel Core i7-3770K
+
+4	3.5 GHz		77 W	Intel HD Graphics 4000	Yes	 (218)	$225.00
+	
+AMD Ryzen 9 5950X	
+AMD Ryzen 9 5950X
+
+16	3.4 GHz	4.9 GHz	105 W	None	Yes	 (91)	$481.00
+	
+Intel Core i7-6700K	
+Intel Core i7-6700K
+
+4	4 GHz	4.2 GHz	91 W	Intel HD Graphics 530	Yes	 (506)	$223.11
+	
+Intel Core i5-12600K	
+Intel Core i5-12600K
+
+10	3.7 GHz	4.9 GHz	125 W	Intel UHD Graphics 770	Yes	 (110)	$238.19
+	
+AMD Ryzen 7 5800X3D	
+AMD Ryzen 7 5800X3D
+
+8	3.4 GHz	4.5 GHz	105 W	None	Yes	 (50)	$325.99
+	
+Intel Core i7-12700K	
+Intel Core i7-12700K
+
+12	3.6 GHz	5 GHz	125 W	Intel UHD Graphics 770	Yes	 (92)	$300.36
+	
+AMD Ryzen 5 2600	
+AMD Ryzen 5 2600
+
+6	3.4 GHz	3.9 GHz	65 W	None	Yes	 (499)	$183.00
+	
+Intel Core i7-12700KF	
+Intel Core i7-12700KF
+
+12	3.6 GHz	5 GHz	125 W	None	Yes	 (25)	$288.97
+	
+AMD Ryzen 7 2700X	
+AMD Ryzen 7 2700X
+
+8	3.7 GHz	4.3 GHz	105 W	None	Yes	 (357)	$230.00
+	
+AMD Ryzen 9 3900X	
+AMD Ryzen 9 3900X
+
+12	3.8 GHz	4.6 GHz	105 W	None	Yes	 (275)	$395.00
+	
+Intel Core i7-8700K	
+Intel Core i7-8700K
+
+6	3.7 GHz	4.7 GHz	95 W	Intel UHD Graphics 630	Yes	 (303)	$322.41
+	
+Intel Core i5-4690K	
+Intel Core i5-4690K
+
+4	3.5 GHz	3.9 GHz	88 W	Intel HD Graphics 4600	No	 (559)	$95.00
+	
+Intel Core i5-3570K	
+Intel Core i5-3570K
+
+4	3.4 GHz		77 W	Intel HD Graphics 4000	No	 (461)	$100.00
+	
+Intel Core i5-6600K	
+Intel Core i5-6600K
+
+4	3.5 GHz	3.9 GHz	91 W	Intel HD Graphics 530	No	 (426)	$195.00
+	
+Intel Xeon E3-1231 V3	
+Intel Xeon E3-1231 V3
+
+4	3.4 GHz	3.8 GHz	80 W	None	Yes	 (34)	
+	
+Intel Core i7-4770K	
+Intel Core i7-4770K
+
+4	3.5 GHz	3.9 GHz	84 W	Intel HD Graphics 4600	Yes	 (465)	$199.00
+	
+AMD Ryzen 7 1700X	
+AMD Ryzen 7 1700X
+
+8	3.4 GHz	3.8 GHz	95 W	None	Yes	 (94)	$265.00
+	
+AMD Ryzen 5 1600 (14nm)	
+AMD Ryzen 5 1600 (14nm)
+
+6	3.2 GHz	3.6 GHz	65 W	None	Yes	 (363)	$294.41
+	
+Intel Core i5-12400F	
+Intel Core i5-12400F
+
+6	2.5 GHz	4.4 GHz	65 W	None	Yes	 (48)	$159.99
+	
+AMD Ryzen 7 1700	
+AMD Ryzen 7 1700
+
+8	3 GHz	3.7 GHz	65 W	None	Yes	 (168)	$215.00
+	
+Intel Core i5-6500	
+Intel Core i5-6500
+
+4	3.2 GHz	3.6 GHz	65 W	Intel HD Graphics 530	No	 (237)	$138.47
+	
+AMD Ryzen 5 1600X	
+AMD Ryzen 5 1600X
+
+6	3.6 GHz	4 GHz	95 W	None	Yes	 (74)	$145.76
+	
+Intel Core i7-5930K	
+Intel Core i7-5930K
+
+6	3.5 GHz	3.7 GHz	140 W	None	Yes	 (37)	
+	
+Intel Core i5-4670K	
+Intel Core i5-4670K
+
+4	3.4 GHz		84 W	Intel HD Graphics 4600	No	 (527)	$148.86
+	
+Intel Core i5-13600KF	
+Intel Core i5-13600KF
+
+14	3.5 GHz	5.1 GHz	125 W	None	Yes	 (18)	$296.48
+	
+Intel Core i9-9900K	
+Intel Core i9-9900K
+
+8	3.6 GHz	5 GHz	95 W	Intel UHD Graphics 630	Yes	 (210)	$575.00
+	
+AMD Ryzen 7 5700X	
+AMD Ryzen 7 5700X
+
+8	3.4 GHz	4.6 GHz	65 W	None	Yes	 (49)	$192.99
+	
+AMD Ryzen 5 3600X	
+AMD Ryzen 5 3600X
+
+6	3.8 GHz	4.4 GHz	95 W	None	Yes	 (200)	$230.00
+	
+Intel Core i5-8600K	
+Intel Core i5-8600K
+
+6	3.6 GHz	4.3 GHz	95 W	Intel UHD Graphics 630	No	 (143)	$265.00
+	
+Intel Core i7-5820K	
+Intel Core i7-5820K
+
+6	3.3 GHz	3.6 GHz	140 W	None	Yes	 (119)	
+	
+Intel Core i9-12900K	
+Intel Core i9-12900K
+
+16	3.2 GHz	5.2 GHz	125 W	Intel UHD Graphics 770	Yes	 (40)	$411.83
+	
+Intel Core i7-9700K	
+Intel Core i7-9700K
+
+8	3.6 GHz	4.9 GHz	95 W	Intel UHD Graphics 630	No	 (224)	$435.00
+	
+AMD Ryzen 7 5800X	
+AMD Ryzen 7 5800X
+
+8	3.8 GHz	4.7 GHz	105 W	None	Yes	 (302)	$241.99
+	
+AMD Ryzen 7 2700	
+AMD Ryzen 7 2700
+
+8	3.2 GHz	4.1 GHz	65 W	None	Yes	 (72)	$213.00
+	
+AMD Ryzen 7 3800X	
+AMD Ryzen 7 3800X
+
+8	3.9 GHz	4.5 GHz	105 W	None	Yes	 (130)	$295.00
+	
+AMD Ryzen 5 2600X	
+AMD Ryzen 5 2600X
+
+6	3.6 GHz	4.2 GHz	95 W	None	Yes	 (227)	
+	
+Intel Core i5-13600K	
+Intel Core i5-13600K
+
+14	3.5 GHz	5.1 GHz	125 W	Intel UHD Graphics 770	Yes	 (47)	$319.13
+	
+Intel Core i5-10600K	
+Intel Core i5-10600K
+
+6	4.1 GHz	4.8 GHz	125 W	Intel UHD Graphics 630	Yes	 (70)	$181.47
+	
+Intel Core i5-7600K	
+Intel Core i5-7600K
+
+4	3.8 GHz	4.2 GHz	91 W	Intel HD Graphics 630	No	 (136)	$236.42
+	
+AMD Ryzen 3 1200 (14nm)	
+AMD Ryzen 3 1200 (14nm)
+
+4	3.1 GHz	3.4 GHz	65 W	None	No	 (69)	$115.00
+	
+Intel Pentium G4560	
+Intel Pentium G4560
+
+2	3.5 GHz		54 W	Intel HD Graphics 610	Yes	 (91)	
+	
+Intel Core i7-10700K	
+Intel Core i7-10700K
+
+8	3.8 GHz	5.1 GHz	125 W	Intel UHD Graphics 630	Yes	 (99)	$219.99
+	
+AMD Ryzen 3 3100	
+AMD Ryzen 3 3100
+
+4	3.6 GHz	3.9 GHz	65 W	None	Yes	 (62)	$85.99
+	
+Intel Core i7-4930K	
+Intel Core i7-4930K
+
+6	3.4 GHz	3.9 GHz	130 W	None	Yes	 (45)	$175.00
+	
+Intel Core i3-12100F	
+Intel Core i3-12100F
+
+4	3.3 GHz	4.3 GHz	58 W	None	Yes	 (21)	$99.99
+	
+Intel Core i5-9600K	
+Intel Core i5-9600K
+
+6	3.7 GHz	4.6 GHz	95 W	Intel UHD Graphics 630	No	 (146)	$250.00
+	
+Intel Core i5-2500K	
+Intel Core i5-2500K
+
+4	3.3 GHz		95 W	Intel HD Graphics 3000	No	 (97)	$234.00
+	
+Intel Core i5-4690	
+Intel Core i5-4690
+
+4	3.5 GHz	3.9 GHz	84 W	Intel HD Graphics 4600	No	 (43)	$94.00
+	
+Intel Core i7-8700	
+Intel Core i7-8700
+
+6	3.2 GHz	4.6 GHz	65 W	Intel UHD Graphics 630	Yes	 (57)	$330.00
+	
+AMD FX-8350	
+AMD FX-8350
+
+8	4 GHz		125 W	None	No	 (438)	
+	
+AMD Ryzen 7 1800X	
+AMD Ryzen 7 1800X
+
+8	3.6 GHz	4 GHz	95 W	None	Yes	 (52)	$295.00
+	
+Intel Pentium G3258	
+Intel Pentium G3258
+
+2	3.2 GHz		53 W	Intel HD Graphics	No	 (158)	$68.00
+	
+AMD Ryzen 7 7700X	
+AMD Ryzen 7 7700X
+
+8	4.5 GHz	5.4 GHz	105 W	Radeon	Yes	 (40)	$330.00
+	
+AMD Ryzen 5 3400G	
+AMD Ryzen 5 3400G
+
+4	3.7 GHz	4.2 GHz	65 W	Radeon Vega 11	Yes	 (54)	$125.00
+	
+Intel Core i7-3930K	
+Intel Core i7-3930K
+
+6	3.2 GHz		130 W	None	Yes	 (40)	$350.00
+	
+Intel Core i5-12600KF	
+Intel Core i5-12600KF
+
+10	3.7 GHz	4.9 GHz	125 W	None	Yes	 (24)	$223.99
+	
+Intel Core i7-11700K	
+Intel Core i7-11700K
+
+8	3.6 GHz	5 GHz	125 W	Intel UHD Graphics 750	Yes	 (34)	$268.14
+	
+Intel Core i9-10900K	
+Intel Core i9-10900K
+
+10	3.7 GHz	5.3 GHz	125 W	Intel UHD Graphics 630	Yes	 (48)	$342.00
+	
+Intel Core i7-2600K	
+Intel Core i7-2600K
+
+4	3.4 GHz		95 W	Intel HD Graphics 3000	Yes	 (44)	$140.00
+	
+Intel Core i5-11600K	
+Intel Core i5-11600K
+
+6	3.9 GHz	4.9 GHz	125 W	Intel UHD Graphics 750	Yes	 (33)	$194.50
+	
+AMD Ryzen 7 5700G	
+AMD Ryzen 7 5700G
+
+8	3.8 GHz	4.6 GHz	65 W	Radeon Vega 8	Yes	 (37)	$194.99
+	
+Intel Core i7-7700K	
+Intel Core i7-7700K
+
+4	4.2 GHz	4.5 GHz	91 W	Intel HD Graphics 630	Yes	 (306)	$363.00
+	
+AMD Ryzen 3 2200G	
+AMD Ryzen 3 2200G
+
+4	3.5 GHz	3.7 GHz	65 W	Radeon Vega 8	No	 (133)	$211.00
+	
+Intel Core i7-4770	
+Intel Core i7-4770
+
+4	3.4 GHz	3.9 GHz	84 W	Intel HD Graphics 4600	Yes	 (40)	$125.00
+	
+AMD FX-8320	
+AMD FX-8320
+
+8	3.5 GHz		125 W	None	No	 (248)	$130.00
+	
+Intel Core i7-13700K	
+Intel Core i7-13700K
+
+16	3.4 GHz	5.4 GHz	125 W	Intel UHD Graphics 770	Yes	 (48)	$415.87
+	
+Intel Core i5-10400F	
+Intel Core i5-10400F
+
+6	2.9 GHz	4.3 GHz	65 W	None	Yes	 (52)	$105.00
+	
+AMD Ryzen 3 3200G	
+AMD Ryzen 3 3200G
+
+4	3.6 GHz	4 GHz	65 W	Radeon Vega 8	No	 (64)	$80.98
+	
+Intel Core i5-8400	
+Intel Core i5-8400
+
+6	2.8 GHz	4 GHz	65 W	Intel UHD Graphics 630	No	 (83)	$185.00
+	
+AMD Ryzen 5 2400G	
+AMD Ryzen 5 2400G
+
+4	3.6 GHz	3.9 GHz	65 W	Radeon Vega 11	Yes	 (79)	$195.00
+	
+Intel Core i3-6100	
+Intel Core i3-6100
+
+2	3.7 GHz		51 W	Intel HD Graphics 530	Yes	 (161)	$105.00
+	
+AMD FX-8320E	
+AMD FX-8320E
+
+8	3.2 GHz	4 GHz	95 W	None	No	 (31)	
+	
+Intel Core i7-4820K	
+Intel Core i7-4820K
+
+4	3.7 GHz	3.9 GHz	130 W	None	Yes	 (26)	$138.00
+	
+Intel Core i5-11400	
+Intel Core i5-11400
+
+6	2.6 GHz	4.4 GHz	65 W	Intel UHD Graphics 730	Yes	 (34)	$147.95
+	
+AMD FX-6350	
+AMD FX-6350
+
+6	3.9 GHz		125 W	None	No	 (50)	$100.00
+	
+Intel Core i9-10850K	
+Intel Core i9-10850K
+
+10	3.6 GHz	5.2 GHz	125 W	Intel UHD Graphics 630	Yes	 (56)	$299.00
+	
+AMD Ryzen 5 5600G	
+AMD Ryzen 5 5600G
+
+6	3.9 GHz	4.4 GHz	65 W	Radeon Vega 7	Yes	 (95)	$137.99
+	
+Intel Core i5-4590	
+Intel Core i5-4590
+
+4	3.3 GHz	3.7 GHz	84 W	Intel HD Graphics 4600	No	 (94)	
+	
+Intel Core i5-10400	
+Intel Core i5-10400
+
+6	2.9 GHz	4.3 GHz	65 W	Intel UHD Graphics 630	Yes	 (58)	$125.00
+	
+Intel Core i7-3770	
+Intel Core i7-3770
+
+4	3.4 GHz		77 W	Intel HD Graphics 4000	Yes	 (46)	$140.00
+	
+AMD FX-6300	
+AMD FX-6300
+
+6	3.5 GHz		95 W	None	No	 (511)	
+	
+AMD Ryzen 9 7950X	
+AMD Ryzen 9 7950X
+
+16	4.5 GHz	5.7 GHz	170 W	Radeon	Yes	 (19)	$581.39
+	
+AMD Ryzen 3 3300X	
+AMD Ryzen 3 3300X
+
+4	3.8 GHz	4.3 GHz	65 W	None	Yes	 (23)	$215.00
+	
+Intel Core i5-4570	
+Intel Core i5-4570
+
+4	3.2 GHz		84 W	Intel HD Graphics 4600	No	 (83)	$84.58
+	
+Intel Core i3-10100	
+Intel Core i3-10100
+
+4	3.6 GHz	4.3 GHz	65 W	Intel UHD Graphics 630	Yes	 (38)	$105.99
+	
+Intel Core i7-6700	
+Intel Core i7-6700
+
+4	3.4 GHz	4 GHz	65 W	Intel HD Graphics 530	Yes	 (41)	$205.86
+	
+AMD Threadripper 1950X	
+AMD Threadripper 1950X
+
+16	3.4 GHz	4 GHz	180 W	None	Yes	 (18)	$599.99
+	
+Intel Core i5-10600KF	
+Intel Core i5-10600KF
+
+6	4.1 GHz	4.8 GHz	125 W	None	Yes	 (9)	$175.99
+	
+AMD Ryzen 5 1400	
+AMD Ryzen 5 1400
+
+4	3.2 GHz	3.4 GHz	65 W	None	Yes	 (52)	$125.00
+	
+Intel Core i5-12400	
+Intel Core i5-12400
+
+6	2.5 GHz	4.4 GHz	65 W	Intel UHD Graphics 730	Yes	 (21)	$179.99
+	
+Intel Core i7-7700	
+Intel Core i7-7700
+
+4	3.6 GHz	4.2 GHz	65 W	Intel HD Graphics 630	Yes	 (35)	$265.00
+	
+AMD Ryzen 5 1600 (12nm)	
+AMD Ryzen 5 1600 (12nm)
+
+6	3.2 GHz	3.6 GHz	65 W	None	Yes	 (51)	$165.00
+	
+Intel Core i5-3570	
+Intel Core i5-3570
+
+4	3.4 GHz		77 W	Intel HD Graphics 2500	No	 (21)	
+"""
